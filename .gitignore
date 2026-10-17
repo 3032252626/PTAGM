@@ -1,0 +1,16 @@
+# 历史备份
+backup/
+*.bak.lsp
+
+# CAD 临时文件与图形
+*.sv$
+*.swp
+*~
+*.dwl
+*.dwl2
+*.dwg
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini

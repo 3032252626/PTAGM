@@ -1,0 +1,8 @@
+# 统一换行符，避免跨平台提交产生整文件 diff
+* text=auto eol=lf
+
+# AutoLISP 脚本、Markdown 文档、示意图均按 LF 处理
+*.lsp text eol=lf
+*.md  text eol=lf
+*.svg text eol=lf
+LICENSE text eol=lf
